@@ -30,9 +30,7 @@
 ## 🌐 Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Charts**: [Chart.js](https://www.chartjs.org/)
 - **Icons**: Font Awesome
-- **Deployment**: GitHub Pages (or your preferred cloud platform)
 
 ---
 
